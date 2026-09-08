@@ -15,9 +15,17 @@ copies of the Software, subject to the following conditions:
    include, but are not limited to, use in a business environment, generating
    revenue, or any activity intended for financial gain.
 
-3. The Software may not be used in proprietary (closed-source) projects. Any
-   project using the Software must be distributed under the same license
-   (AC713-FS-1.0) or a compatible free/open-source license.
+3. The Software may not be used in proprietary (closed-source) projects.
+a)Any project using the Software must be distributed under the same license 
+(AC713-FS-1.0) or a compatible free/open-source license.
+b) Compatible licenses with AC713-FS-1.0: 
+  GNU Affero General Public License 
+  GNU General Public License Version 3.0 
+  Berkeley Software Distribution 
+  MPL (Mozilla Public License)
+c) incompatible licenses with AC713-FS-1.0: 
+  Apache version 2.0 
+  MIT (MIT license)
 
 4. Any modified versions of the Software must be distributed under the same
    license (AC713-FS-1.0) and must clearly state that the original code has
@@ -32,6 +40,7 @@ copies of the Software, subject to the following conditions:
 7. When working with a license, if the license terms are violated, the following will happen to the software:
   a) A 30-day (1 month) period is given after the license terms are violated.
   b) If the period has expired and the license terms violations have not been resolved, the software becomes ENTIRELY IN THE PUBLIC DOMAIN.
+8. 
 
   Copyright of the code owner:
 <programm> Copyright (C) <year> <author>
