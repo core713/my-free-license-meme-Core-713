@@ -22,6 +22,9 @@ copies of the Software, subject to the following conditions:
 4. Any modified versions of the Software must be distributed under the same
    license (AC713-FS-1.0) and must clearly state that the original code has
    been modified.
+5. Any software that links to, depends on, or interacts with the Software 
+   (including via network/API calls) MUST be distributed under the same 
+   license (AC713-FS-1.0) with its full source code made publicly available. 
 
   Copyright of the code owner:
 <programm> Copyright (C) <year> <author>
