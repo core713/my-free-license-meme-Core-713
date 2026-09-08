@@ -25,10 +25,13 @@ copies of the Software, subject to the following conditions:
 5. Any software that links to, depends on, or interacts with the Software 
    (including via network/API calls) MUST be distributed under the same 
    license (AC713-FS-1.0) with its full source code made publicly available. 
-6.Copyright in the AC713-FS-1.0 license is MANDATORY for open-source software, using the following format:
-a) "<programm> Copyright (C) <year> <author>"
-b) To work with the AC713-FS-1.0 license, the file headers MUST contain license indications (link or file or text),
-c) an indication of the license author (The Copyright of the license © OS-AC713) and indications of the file author and contributors (text, link to the file or the file itself). If these rules are not followed, after 1 month the code becomes COMPLETELY IN THE PUBLIC DOMAIN.
+6. Copyright in the AC713-FS-1.0 license is MANDATORY for open-source software, using the following format:
+    a) "<programm> Copyright (C) <year> <author>"
+    b) To work with the AC713-FS-1.0 license, the file headers MUST contain license indications (link or file or text),
+    c) an indication of the license author (The Copyright of the license © OS-AC713) and indications of the file author and contributors (text, link to the file or the file itself). If these rules are not          followed, after 1 month the code becomes COMPLETELY IN THE PUBLIC DOMAIN.
+7. When working with a license, if the license terms are violated, the following will happen to the software:
+  a) A 30-day (1 month) period is given after the license terms are violated.
+  b) If the period has expired and the license terms violations have not been resolved, the software becomes ENTIRELY IN THE PUBLIC DOMAIN.
 
   Copyright of the code owner:
 <programm> Copyright (C) <year> <author>
